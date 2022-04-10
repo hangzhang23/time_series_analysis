@@ -1,9 +1,3 @@
-# !/usr/bin/env python3
-# -*- coding:utf-8 -*-
-
-# @Time    : 2022/04/11 02:09
-# @Author  : TJD
-# @FileName: apparent_training.py
 from base_class import ForecastingBase, ModelBase
 from feature_analysis import TreeAnalysis
 from utils import *
